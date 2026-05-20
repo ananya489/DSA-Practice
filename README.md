@@ -1,1 +1,1 @@
-# Daily_DSA_Practice___
+# Daily_DSA_Practice
